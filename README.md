@@ -1,1 +1,1 @@
-Chatroom Application using Java and PHP. Was completed as a group project for CSIS 2450 Software Engineering course at SLCC (Salt Lake Community College)
+Chatroom Application using Java. Orignally was connected to a PHP server to allow synchronous communication between users. Was completed as a group project for CSIS 2450 Software Engineering course at SLCC (Salt Lake Community College)
